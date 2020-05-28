@@ -1,0 +1,30 @@
+{
+  "summary": {
+    "title": "Nomad SELinux",
+    "owner": "Steven Carlson",
+    "description": "In order to move forward with running SELinux in enforcing mode, I need to enable something called privileged mode for containers. You can find additional info here. The reason for enabling this feature is for a containerized app called telegraf that we rely on for monitoring, and it requires elevated access to the host OS."
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "DevSecOps Team"
+      },
+      {
+        "name": "SRE Team"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "AWS ENV",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "Hosted ENV",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      }
+    ],
+    "reviewer": "Andrew Fox"
+  }
+}
