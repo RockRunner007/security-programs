@@ -1,0 +1,31 @@
+Handbook
+	- Threat Intelligence
+	- Security Architecture
+	- Security Research
+	- Security Integration
+	- Standard Defences
+	- Attack Protection
+	- Security Orchestration
+	- Security Training
+	
+An SDLC Blueprint
+	Without a secure development life cycle from which champions work, they don't know what they are supposed to deliver. Adopting a clear set of activities and expectations for the delivery of 'secure' software - and clearly defining what 'secure' means in the context of the software to be delivered - must be done in parallel with any champion program. Otherwise, what are these empowered people actually delivering? What are their responsibilities? To what are they being held accountable?" -- Brook Schoenfield, master security architect at IOActive, and creator of four security champion programs at different organizations
+A Defined Role
+	"Defining a list of responsibilities and expectations helps organizations maintain alignment with the objectives of the security champion program. Don't forget about appropriate separation of duties. For example, the security champion may not be the role entitled to make fix/no-fix decisions." -- Shawn Asmus, director of threat management at Optiv
+Clear Security Goals to Work Toward
+	"Maybe your goal is to get your application inventory under control. Or maybe it's to eliminate all critical vulnerabilities in 2020. I recommend setting up some simple metrics that can get all your champions aligned." -- Jeff Williams, CTO of Contrast Security
+Training
+	"The security team should provide each security champion with training, guidance, and tools to be successful and meet the previously mentioned goals. Teach the security champions how you perform security reviews, how your organization ranks risk, and how they can leverage existing security tools." -- Christopher Emerson, founder and CEO of White Oak Security, involved in setting up champions programs at Target and Best Buy
+Mentorship
+	"One of the keys to success for LinkedIn's Security Champions program is the mentorship component. Champions are assigned a 'buddy' from LinkedIn's information security team based on their interests, the project they work on, and their area of expertise. Having this kind of specialized support is especially valuable for customizing the program, since the goal for champions is that they become security resources on their own teams." -- Jim Hamilton, senior manager in the Information Security Program Office at LinkedIn, and a leader in the company's Security Champions program
+Time to Do Security Work
+	"Participants in our Security Champions program dedicate about 25% of their time to the program, which is important for allowing them to fully learn and practice security techniques. Since this time is taken from their typical workload, it's critical to have buy-in from a champion's manager at the outset." -- Jim Hamilton, senior manager in the Information Security Program Office at LinkedIn, and a leader in the company's Security Champions program
+Realistic Expectations
+	"Security champion roles can be crafted such that they have any number of responsibilities. They can help teams configure and run SAST, DAST, IAST, and SCA tools. They can help triage the results that come from those tools and clear false-positives. They can participate in threat modeling. They can do collaborative security code reviews. They can provide examples of manual penetration testing. They can mentor developers and provide more formal training classes. But only a tremendously senior individual is going to be able to do all those things.
+	"So when you're setting expectations on what you will accomplish with your security champions program, be sure to understand the skills of the champions you have available and do some quick math on the scale of the development program they are going to be supporting." -- Dan Cornell, CTO of Denim Group
+Political Support
+	"Every program that I've led has fully empowered and supported the satellite members of the team. This is a lot of work and requires a lot of leadership, especially modeling behavior, building a community, servant leadership, and also a little bit of political acumen -- like, don't leave your champions hanging when their own management is resisting their advice.
+	"At that point, a central, empowered, strong team has to pick up escalations in order to protect champions from conflict with the people who are also responsible for their bonuses and promotions. Hard lesson, that one." -- Brook Schoenfield, master security architect at IOActive, and creator of four security champion programs at different organizations
+A Career Path
+	"There is no shortage of opportunities for trained security engineers, so if you want to keep these talented, security-minded developers, it helps to provide security champions with a path for career progression with goals and milestones. You will also have to plan for a training budget as well.
+	"We worked with a large bank to craft a matrix of the skills they wanted their security champions to build over time and the level of knowledge they were expected to have at each level of advancement. This provided their security champion candidates with a solid understanding of how they could expect their career to progress over time and gave them specific goals for professional development." -- Dan Cornell, CTO of Denim Group
