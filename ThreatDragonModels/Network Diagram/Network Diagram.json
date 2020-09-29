@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Network Diagram",
+    "owner": "steven"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "aks",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Gabe"
+  }
+}
