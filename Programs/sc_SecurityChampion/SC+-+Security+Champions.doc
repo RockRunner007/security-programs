@@ -1,0 +1,354 @@
+Date: Sat, 19 Jun 2021 20:37:34 +0000 (UTC)
+Message-ID: <2054624742.71.1624135054158@d4d7363a4127>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_70_934169650.1624135054158"
+
+------=_Part_70_934169650.1624135054158
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>SC - Security Champions</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>SC - Security Champions</h1>
+    <div class=3D"Section1">
+        <p>Reference: <a href=3D"https://github.com/RockRunner007/Security-=
+Programs/blob/master/SecurityChampion/Security%20Champions.txt" class=3D"ex=
+ternal-link" rel=3D"nofollow">Security Champion Handbook</a> </p>
+<h1 id=3D"SC-SecurityChampions-Overview">Overview</h1>
+<p>The goal of the security champion program is to enable employees to make=
+ better decisions when building products and create an awareness of the ris=
+k of building and consuming custom software.</p>
+<h1 id=3D"SC-SecurityChampions-ProblemStatement">Problem Statement</h1>
+<p>Product security has not traditionally been a part of training or founda=
+tional education. Also, engineers are encouraged to push features out the d=
+oor vs spending time on review code for quality issues and security risk. <=
+br><br>Time is always an issue. </p>
+<h1 id=3D"SC-SecurityChampions-Program">Program</h1>
+<ul>
+<li><p>People to include in the program</p>
+<ul>
+<li><p>New hire</p>
+<ul>
+<li><p>Level 1 must have earned a white level </p></li>
+<li><p>Level 2-3 must have earned a yellow level 15 days prior to earning p=
+romotion</p></li>
+<li><p>Senior-level must have earned a green level 15 days prior to earning=
+ promotion</p></li>
+</ul></li>
+<li><p>Long term employee</p>
+<ul>
+<li><p>here it is</p></li>
+</ul></li>
+</ul></li>
+<li><p>Bi-weekly meeting to discuss security topic</p>
+<ul>
+<li><p>Find a time on the calendar for all members can join. Record meeting=
+s for those who can=E2=80=99t attend or are in different time zones.</p></l=
+i>
+<li><p>Meeting Layout</p>
+<ul>
+<li><p>Introduction</p></li>
+<li><p>Old Product Security News</p></li>
+<li><p>New Product Security News</p></li>
+<li><p>Open mic for security questions</p></li>
+</ul></li>
+<li><p>Every other meeting, have a guest speaker from an identity team demo=
+ a best practice</p></li>
+</ul></li>
+<li><p>Award program for individual completing work/topics</p>
+<ul>
+<li><p>=E2=80=98belt system=E2=80=99 to help grade people who are in the se=
+curity champion program</p>
+<ul>
+<li><p>White - {description} - {practical} - security fish </p></li>
+<li><p>Yellow - {description} - {practical} - {award}</p></li>
+<li><p>Green - {description} - {practical} - {award}</p></li>
+<li><p>Brown - {description} - {practical} - {award}</p></li>
+<li><p>Black - {description} - {practical} - {award}</p></li>
+</ul></li>
+<li><p>Evidence for helping up level engineers</p></li>
+<li><p>Swag - Sticker | shirts | vendor swag </p><=
+/li>
+</ul></li>
+<li><p>Language/framework and non-language/framework training</p>
+<ul>
+<li><p>Review product security terms and practices</p></li>
+<li><p>Review ways for testing code and looking for security risks</p></li>
+<li><p>Review language-specific security risks</p></li>
+<li><p>Review options for using the framework security add-ins</p></li>
+</ul></li>
+<li><p>Tools</p>
+<ul>
+<li><p><a href=3D"https://www.securityjourney.com/" class=3D"external-link"=
+ rel=3D"nofollow">https://www.securityjourney.com/</a></p>
+<ul>
+<li><p>Steven can demo =E2=86=92 <a href=3D"https://app.securityjourney.com=
+/" class=3D"external-link" rel=3D"nofollow">https://app.securityjourney.com=
+/</a></p></li>
+<li><p><a href=3D"https://www.securityjourney.com/product-overview#pricing"=
+ class=3D"external-link" rel=3D"nofollow">https://www.securityjourney.com/p=
+roduct-overview#pricing</a></p></li>
+</ul></li>
+<li><p><a href=3D"https://www.checkmarx.com/products/codebashing-enterprise=
+-application-security-training/" class=3D"external-link" rel=3D"nofollow">h=
+ttps://www.checkmarx.com/products/codebashing-enterprise-application-securi=
+ty-training/</a></p>
+<ul>
+<li><p>Steven can demo =E2=86=92 <a href=3D"https://free.codebashing.com/" =
+class=3D"external-link" rel=3D"nofollow">https://free.codebashing.com/</a><=
+/p></li>
+</ul></li>
+<li><p><a href=3D"https://www.securecodewarrior.com/" class=3D"external-lin=
+k" rel=3D"nofollow">https://www.securecodewarrior.com/</a></p></li>
+</ul></li>
+</ul>
+<h1 id=3D"SC-SecurityChampions-EntryPoint:">Entry Point:</h1>
+<p>SDLC review and resolution - offer additional training</p>
+<p>=E2=80=9CDevOps Education Program=E2=80=9D</p>
+<h1 id=3D"SC-SecurityChampions-Reporting:">Reporting:</h1>
+<p>&lt;metrics/&gt;</p>
+<h1 id=3D"SC-SecurityChampions-NextSteps:">Next Steps:</h1>
+<ol>
+<li><p>Find a way to imbed training into current offerings like lessonly</p=
+></li>
+<li><p>Build out awards, description, and practical for each level</p></li>
+<li><p>Determine data metrics </p></li>
+<li><p>Map findings to education opportunities</p></li>
+</ol>
+<h1 id=3D"SC-SecurityChampions-CurrentLearningOpportunities:">Current Learn=
+ing Opportunities:</h1>
+<ul>
+<li><p><a href=3D"https://spreetail.lessonly.com/lesson/484203-source-contr=
+ol-policy" class=3D"external-link" rel=3D"nofollow">Source Control Policy</=
+a></p></li>
+<li><p><a href=3D"https://hyperchicken.m2.spreetail.org/devops/devsecops/sa=
+ndbox" class=3D"external-link" rel=3D"nofollow">Internal Code Bashing</a></=
+p></li>
+</ul>
+<p></p>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_70_934169650.1624135054158--

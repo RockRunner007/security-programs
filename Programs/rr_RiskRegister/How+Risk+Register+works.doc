@@ -1,0 +1,351 @@
+Date: Sat, 19 Jun 2021 20:44:42 +0000 (UTC)
+Message-ID: <626762020.67.1624135482697@03979befc711>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_66_1250874788.1624135482697"
+
+------=_Part_66_1250874788.1624135482697
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>How Risk Register works</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>How Risk Register works</h1>
+    <div class=3D"Section1">
+        <h2 id=3D"HowRiskRegisterworks-CurrentSetup:">Current Setup:</h2>
+<p>Currently, the label =E2=80=9Csecurity=E2=80=9D to Jira tickets adds fin=
+dings to {company}=E2=80=99s Risk Register</p>
+<h2 id=3D"HowRiskRegisterworks-Overview:">Overview: </h2>
+<p>A risk register is a utility that allows practitioners to track and meas=
+ure risks in one place. This type of reporting can quickly help align teams=
+ to the initiatives that matter and can save an organization valuable resou=
+rces, time, and labor. By utilizing compliance, scope, and efficacy, any pr=
+oject team can utilize a risk register for the betterment of their cybersec=
+urity.</p>
+<h2 id=3D"HowRiskRegisterworks-Whatisarisk?">What is a risk?</h2>
+<p><em>Risk is defined as the potential for loss or damage when a threat ex=
+ploits a vulnerability.</em></p>
+<p></p>=20
+<div style=3D"text-align: left;page-break-inside: avoid;">=20
+<div style=3D"display: inline-block;max-width: 100.0%;width: 1020.0px;heigh=
+t: auto;">=20
+<span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluence-e=
+mbedded-image confluence-external-resource" src=3D"https://atlassian-lucidc=
+hart-com.s3.amazonaws.com/8b13dbf0-cd85-316a-9716-91551bdcb657/ac13c2f5-90f=
+4-486b-9c61-277a00ecab68/page-0.png?X-Amz-Security-Token=3DIQoJb3JpZ2luX2Vj=
+EMz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIBVfIDm379ufDgWVp4k=
+D%2F56g14KuBYOY1bflSptZUC2sAiEAlIWRmP%2FkmbgacQCgUitbvP576sZoTLk7gGXRhns%2F=
+H6oqgwQIlP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw5MzU2MDY5MjYxODIiDOXP8qcYFQP=
+eM0e3QyrXA7fO2R9GsTmZqKzVLGw07vAAurIn1288bv8qQIzNFTHvx1d3op33ndOCj6BKjracTv=
+GoTRIA3yEhcft1SZYjTXXiAYNNot%2FzgzJtcgqzrU6qe2%2F%2FqpE9tieeQMyuFwp9Fr%2FeJ=
+Vze%2BI%2B7EYhfIIJatE7XhS1mudkD9LNqKzeKlndB1b0AK%2BsILC6Qri4mlhVppHcTbwNeAK=
+aCP0%2FwAHr%2BfxNCboWZmoPnL%2BXSWBJ7syv6iTkHJC7oBgGuOK14A7S9jc2DSuZSu2UzSdl=
+KB6PuGTA%2BcyFljCCt3YQu1QFZprijOZd13jDyWUE%2F5ywkZFJNl28VwVMhq9Lv39RJ%2BnFj=
+xsTXpPItNWEVvinUrhSPQdlJa2np0TQYn1IB2kBDZ12lFMC%2FCVVNhc1VR3ooJu90%2B968%2B=
+NVZZRRio0OmuT4hEy3J%2FUdhg1hIxuzTAdVtgqIvGNSGZnFcxakdkh%2B7vlPtz0lmDvqwOpZW=
+1kZy1RtRpzseLX6ekHcm4GIVSjIq6JlBC8b9%2BpreTlqN9M%2B0tp2Y7LwrOZhvxXykIMpoYcb=
+2ZB38J0h%2BKibxaGvpwjuqvQ8X9GoLbd1cK8X7UZ%2BRD2bIWQep9l%2Fb%2BdvHNTLG5kRwJc=
+Bf%2BUfTS%2FX2gDCdhLmGBjqlAdKB6bRGsOXOuBhJXHVAgeRtl9Fl00sfz46u6bRpptKWZ6NpS=
+jDxx46U10P8KgaQOF8ThxFA9bNey6pJTsAdNsvRkS56G9qw%2BD9IySreruVqVqdZ8M3ID4ih7S=
+c%2B3SANIXAr9T%2By7dwK3taOwzjNuvymOoi5zPgRkEAEwYoWeL0ZiBIB%2BYp5AAr40fzrImh=
+W2FlpL1QRtfh55h%2FHPQVHBlcYTh0YXA%3D%3D&amp;X-Amz-Algorithm=3DAWS4-HMAC-SHA=
+256&amp;X-Amz-Date=3D20210619T204442Z&amp;X-Amz-SignedHeaders=3Dhost&amp;X-=
+Amz-Expires=3D300&amp;X-Amz-Credential=3DASIA5TVUEXNTA3HY3AZ3%2F20210619%2F=
+us-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=3D75b7801fac81e892b179466=
+86b1672b32b876839640f02ecf04538f5c3a9ae23" data-image-src=3D"https://atlass=
+ian-lucidchart-com.s3.amazonaws.com/8b13dbf0-cd85-316a-9716-91551bdcb657/ac=
+13c2f5-90f4-486b-9c61-277a00ecab68/page-0.png?X-Amz-Security-Token=3DIQoJb3=
+JpZ2luX2VjEMz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIBVfIDm37=
+9ufDgWVp4kD%2F56g14KuBYOY1bflSptZUC2sAiEAlIWRmP%2FkmbgacQCgUitbvP576sZoTLk7=
+gGXRhns%2FH6oqgwQIlP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw5MzU2MDY5MjYxODIiD=
+OXP8qcYFQPeM0e3QyrXA7fO2R9GsTmZqKzVLGw07vAAurIn1288bv8qQIzNFTHvx1d3op33ndOC=
+j6BKjracTvGoTRIA3yEhcft1SZYjTXXiAYNNot%2FzgzJtcgqzrU6qe2%2F%2FqpE9tieeQMyuF=
+wp9Fr%2FeJVze%2BI%2B7EYhfIIJatE7XhS1mudkD9LNqKzeKlndB1b0AK%2BsILC6Qri4mlhVp=
+pHcTbwNeAKaCP0%2FwAHr%2BfxNCboWZmoPnL%2BXSWBJ7syv6iTkHJC7oBgGuOK14A7S9jc2DS=
+uZSu2UzSdlKB6PuGTA%2BcyFljCCt3YQu1QFZprijOZd13jDyWUE%2F5ywkZFJNl28VwVMhq9Lv=
+39RJ%2BnFjxsTXpPItNWEVvinUrhSPQdlJa2np0TQYn1IB2kBDZ12lFMC%2FCVVNhc1VR3ooJu9=
+0%2B968%2BNVZZRRio0OmuT4hEy3J%2FUdhg1hIxuzTAdVtgqIvGNSGZnFcxakdkh%2B7vlPtz0=
+lmDvqwOpZW1kZy1RtRpzseLX6ekHcm4GIVSjIq6JlBC8b9%2BpreTlqN9M%2B0tp2Y7LwrOZhvx=
+XykIMpoYcb2ZB38J0h%2BKibxaGvpwjuqvQ8X9GoLbd1cK8X7UZ%2BRD2bIWQep9l%2Fb%2BdvH=
+NTLG5kRwJcBf%2BUfTS%2FX2gDCdhLmGBjqlAdKB6bRGsOXOuBhJXHVAgeRtl9Fl00sfz46u6bR=
+pptKWZ6NpSjDxx46U10P8KgaQOF8ThxFA9bNey6pJTsAdNsvRkS56G9qw%2BD9IySreruVqVqdZ=
+8M3ID4ih7Sc%2B3SANIXAr9T%2By7dwK3taOwzjNuvymOoi5zPgRkEAEwYoWeL0ZiBIB%2BYp5A=
+Ar40fzrImhW2FlpL1QRtfh55h%2FHPQVHBlcYTh0YXA%3D%3D&amp;X-Amz-Algorithm=3DAWS=
+4-HMAC-SHA256&amp;X-Amz-Date=3D20210619T204442Z&amp;X-Amz-SignedHeaders=3Dh=
+ost&amp;X-Amz-Expires=3D300&amp;X-Amz-Credential=3DASIA5TVUEXNTA3HY3AZ3%2F2=
+0210619%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=3D75b7801fac81e=
+892b17946686b1672b32b876839640f02ecf04538f5c3a9ae23" loading=3D"lazy"></spa=
+n>=20
+</div>=20
+</div>=20
+<p></p>
+<h2 id=3D"HowRiskRegisterworks-Howdoweresolverisk?">How do we resolve risk?=
+</h2>
+<p><em>It depends on the risk </em><img class=3D"emoticon emoticon-smile" d=
+ata-emoji-id=3D"1f642" data-emoji-shortname=3D":slight_smile:" data-emoji-f=
+allback=3D"=F0=9F=99=82" src=3D"24b248847ea7c4527887cfbaa55ccfdd" width=3D"=
+16" height=3D"16" data-emoticon-name=3D"smile" alt=3D"(smile)"><em> </em></=
+p>
+<ul>
+<li><p>{company} Software Related?</p>
+<ul>
+<li><p>Create a Jira ticket with the label =E2=80=9Csecurity=E2=80=9D so th=
+at the Security, Compliance, and Shared Services team is aware of the risk<=
+/p></li>
+<li><p>Based on the severity, work with the product owner to schedule the J=
+ira ticket. If you need assistance creating a plan to resolve risk or ident=
+ity risk, reach out to the Shared Services team</p>
+<ul>
+<li><p>Critical or High should be resolved in the current sprint</p></li>
+<li><p>Medium and below should be resolved in a future sprint</p></li>
+</ul></li>
+</ul></li>
+</ul>
+    </div>
+</body>
+</html>
+------=_Part_66_1250874788.1624135482697
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/24b248847ea7c4527887cfbaa55ccfdd
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAKfwAACn8AG1cEgF
+AAABWWlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpu
+czptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS40LjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9
+Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRm
+OkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp0aWZmPSJodHRwOi8v
+bnMuYWRvYmUuY29tL3RpZmYvMS4wLyI+CiAgICAgICAgIDx0aWZmOk9yaWVudGF0aW9uPjE8L3Rp
+ZmY6T3JpZW50YXRpb24+CiAgICAgIDwvcmRmOkRlc2NyaXB0aW9uPgogICA8L3JkZjpSREY+Cjwv
+eDp4bXBtZXRhPgpMwidZAAACNElEQVQ4EY1TTY9MURA9dV/3vCZh0JJJzCxELNg1C2Jhg4iQFktr
+EsO/mH/BLFhb+oogTCIWE9+9QyKGZJpMaGYiae/N63fLqXpamghucm9uquqc+hbwqM4EkZno/86J
+PYh6itKDVGyFQhBkge8cJFyU1pVHoxgZgtUMn7fPoxam0UiAbyVQOCdQD8AayjLKBpjFrqvnREhv
+jis2gjvH72B87JD2ckOVNCACRPqJdEA0EmmmASurd9G6dthIKgPz7OAsl5qIpEmdxkOwMQSTmU57
+WW62Hi0VopZz0Ieaxyh1kd6nTF68+YJ9rQkkVYAoo2K+s4Sd2zaiubmhWqhKGgKi7A3UnvacGTb5
+5PaDd9h/5jFeLSyD9fBrf5OZzmz4lI5hsQOzP+AFq3Km7j+O2VqR2SmJT9oDUiYsEpgjer0Mf02h
+2YAO2DKLQzAQfdou2Oua+XWSxOh4hy00hR1rZalQXgebjARMQd66EiyJsbJgJLS6m0l17G8y6n6A
+o2OIDVTM2ZB4n1m0Dx/7uD+/iH6/oL06n/1NZjorrNvaYEHu/dpGxhNLlcs3X+PGrZeYmhr3CLqL
+Kzh2ZAdOHt2OkHB4I3620ePUZ+0L2JBO6+c8l4AxhCDd91/RXaJHnsmJtZjcso4pMKaIVdmUpljO
+Z2X39bMVge3ByCgzz5I5Jky4mkaDFYxN/zDK1TKxEpxtZ7UJW1+vUxI0H8Cu/U3m00fPwz0YWSZu
+1b/WmQVjZy79vs7fAdlwN9BZNtNNAAAAAElFTkSuQmCC
+------=_Part_66_1250874788.1624135482697--

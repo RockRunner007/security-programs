@@ -1,0 +1,282 @@
+Date: Sat, 19 Jun 2021 20:52:30 +0000 (UTC)
+Message-ID: <1705388868.73.1624135950618@cdf1393c841c>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_72_2064702630.1624135950617"
+
+------=_Part_72_2064702630.1624135950617
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>SDLC</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>SDLC</h1>
+    <div class=3D"Section1">
+        <h3 id=3D"SDLC-1.1.1SystemDevelopmentLifeCycle">1.1.1 System Develo=
+pment Life Cycle</h3>
+<p>{company} Must:</p>
+<ul>
+<li><p>Manage the information system using the system development life cycl=
+e (SDLC) that incorporates information security considerations;&nbsp;</p></=
+li>
+<li><p>Define and document information system security roles and responsibi=
+lities throughout the system development life cycle;</p></li>
+<li><p>Identify individuals having information system security roles and re=
+sponsibilities; and</p></li>
+<li><p>Integrate the information security risk management process into syst=
+em development life cycle activities.</p></li>
+</ul>
+<p>Reference:&nbsp;PCI: 6.3CSC Top 20: 18</p>
+<h3 id=3D"SDLC-1.1.2DesignProcess">1.1.2 Design Process</h3>
+<p>{company} must include the following requirements, descriptions, and cri=
+teria, explicitly or by reference, in for the information system, system co=
+mponent, or information system service in accordance with applicable laws, =
+directives, policies, regulations, programs, guidelines, and mission/busine=
+ss needs:</p>
+<ul>
+<li><p>Security functional requirements;</p></li>
+<li><p>Security strength requirements;</p></li>
+<li><p>Security assurance requirements;</p></li>
+<li><p>Security-related documentation requirements;</p></li>
+<li><p>Requirements for protecting security-related documentation;</p></li>
+<li><p>Description of the information system development environment and en=
+vironment in which systems are intended to operate; and</p></li>
+</ul>
+<p>Acceptance criteria</p>
+<p>{company} should require developers of information systems, system compo=
+nents, or information system services to provide a description of the funct=
+ional properties of the security controls to be employed.</p>
+<p>{company} should require developers of information systems, system compo=
+nents, or information system services to provide design and implementation =
+information for the security controls to be employed that includes a high l=
+evel design with appropriate design/implementation information given at a h=
+igh level design level of detail.</p>
+<p>{company} should require developers of information systems, system compo=
+nents, or information system services to identify early in the system devel=
+opment life cycle, the functions, ports, protocols, and services intended f=
+or organizational use.</p>
+<p>&nbsp;</p>
+    </div>
+</body>
+</html>
+------=_Part_72_2064702630.1624135950617--
