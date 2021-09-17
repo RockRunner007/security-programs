@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "CaaS",
+    "owner": "steven",
+    "description": "Credit as a service"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "API Gateway",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Cameron"
+  }
+}
