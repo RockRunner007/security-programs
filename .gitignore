@@ -1,0 +1,25 @@
+# local development
+.classpath.txt
+*.target
+*.classpath
+*.project
+*.idea
+*.settings
+*.vscode
+*.iml
+*.nocommit
+*.$*
+*__pycache__
+
+# logging frameworks
+*.log
+
+# apple latop
+*.DS_Store
+*.dccache
+
+# terraform
+*.plan
+*.tfstate
+*.hcl
+*.terraform*

@@ -6,7 +6,7 @@ A collection of security programs for product lead teams
 - You are free to use these examples as is or modify them.
 
 <!-- ROADMAP -->
-## Roadmap
+## Road-map
 - Building out a sample product security buy-in conversation
 
 <!-- LICENSE -->
