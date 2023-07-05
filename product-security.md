@@ -70,6 +70,8 @@ ________________________________________________________________
 - [Enso](https://www.enso.security/integrations/all-integrations)
 - [Escape](https://escape.tech)
 - [Evidence](https://evidence.dev)
+- [Cloudquery](https://www.cloudquery.io/)
+- [Metabase](https://www.metabase.com/)
 
 # FAQ
 
